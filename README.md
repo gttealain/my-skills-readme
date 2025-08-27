@@ -3,15 +3,18 @@ Icons SolidWorks, Altium, KiCad
 # My Software Logos
 
 <p align="center">
-  <img src="./SolidWorks.svg" width="48" alt="SolidWorks" style="margin:0 10px"/>
-  <img src="./Altium.svg" width="48" alt="Altium" style="margin:0 10px"/>
-  <img src="./KiCad.jpeg" width="48" alt="KiCad" style="margin:0 10px"/>
+  <img src="./A.png" width="48" alt="A" style="margin:0 10px"/>
+  <img src="./KC.png" width="48" alt="KC" style="margin:0 10px"/>
+  <img src="./OLF.png" width="48" alt="OLF" style="margin:0 10px"/>
+  <img src="./SDS.png" width="48" alt="SDS" style="margin:0 10px"/>
 </p>
+
 
 # Logos List
 
-|      Software      |                         Logo                          |
-| :----------------: | :---------------------------------------------------: |
-|     `SolidWorks`   | <img src="./SolidWorks.svg" width="48">              |
-|       `Altium`     | <img src="./Altium.svg" width="48">                  |
-|       `KiCad`      | <img src="./KiCad.jpeg" width="48">                  |
+| Logo | Imagen |
+| :--: | :----: |
+| `A`   | <img src="./A.png" width="48"> |
+| `KC`  | <img src="./KC.png" width="48"> |
+| `OLF` | <img src="./OLF.png" width="48"> |
+| `SDS` | <img src="./SDS.png" width="48"> |
